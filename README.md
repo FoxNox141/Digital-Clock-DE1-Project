@@ -31,7 +31,7 @@ The clock is controlled by 5 buttons and 2 switches. The output peripherals are 
 ## Hardware description
 
    #### Nexys A7-50T
-   ![nexys board](images/nexys_board.png)
+   ![nexys board](Graphs/nexys_basic_scheme.png)
 
 | **Callout** | **Component Description** | **Callout** | **Component Description** |
    | :-: | :-: | :-: | :-: |
